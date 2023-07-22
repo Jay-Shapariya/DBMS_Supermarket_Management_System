@@ -29,6 +29,26 @@ Follow these steps to set up the Supermarket Management System:
 
 5. Now, the application should be accessible by navigating to http://localhost/supermarket-management-system in your web browser.
 
+## MODULES
+
+- **Notification of insufficient stock module.**
+- **Normal employee:**
+- Generate bill module
+- **Stock manager:**
+- Generate bill module
+- View and update stock module
+- Add product module
+- Update product details module
+- **Admin:**
+- Generate bill module
+- View and update stock module
+- Add product module
+- Update product details module
+- Auditing payments and adding supplier module
+- Sales report module
+- User account management module
+- Organization information module
+
 ## Features
 
 The Supermarket Management System includes the following features:
